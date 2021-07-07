@@ -24,6 +24,23 @@ Regras:
 
 ⚡ Observação: Os testes a serem criados são para validar os métodos entry e quota, e também o construtor e os setters. Cobrir cenários quando satisfazem e não satisfazem a terceira regra. (para o construtor e setters).
 
+# Como executar o projeto
+
+```bash
+# clonar repositório
+git clone git@github.com:roalbuquerque/JUnitVanilla-TDD-Exercicio.git
+
+# Abrir o projeto no "Spring Tool Suite 4" ou de sua preferência.
+botão direito do mouse > import > Existing projects into Workspace
+
+# executar o Teste
+Botão direito sobre o arquivo "FinancingTests.java" e > Run As > JUnit Test
+
+# o que acontece depois de executar o teste
+na Aba JUnit é apresentado que o teste executou com sucesso.
+```
+
+
 ## Exemplo de Teste
 ![Teste de requisitção](https://github.com/roalbuquerque/exercicio-JUnitVanilla/blob/master/assets/financingTests.png)
 
